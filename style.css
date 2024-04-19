@@ -1,0 +1,21 @@
+body h1 {
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+#urlData {
+    text-align: center;
+    height: 225px;
+    width: 15%;
+    background-color: lightslategray;
+    border: 1px solid lightslategray;
+    border-radius: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bold-label {
+    font-weight: bold;
+}
+
+
